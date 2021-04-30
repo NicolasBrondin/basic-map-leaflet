@@ -12,9 +12,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://NicolasBrondin.github.io/basic-map-leaflet/)
+[![Product Name Screen Shot][product-screenshot]](https://NicolasBrondin.github.io/basic-map-leaflet/dist/index.html)
 
-Here is a basic implementation of an interactive map using Leaflet, OpenStreet Map and MapBox. This is very simplistic and for education purpose, feel free to reuse the code and improve it your own way. Check the online demo : https://NicolasBrondin.github.io/basic-map-leaflet/
+Here is a basic implementation of an interactive map using Leaflet, OpenStreet Map and MapBox. This is very simplistic and for education purpose, feel free to reuse the code and improve it your own way. Check the online demo : https://NicolasBrondin.github.io/basic-map-leaflet/dist/index.html
 
 ### Built With
 
