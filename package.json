@@ -1,0 +1,15 @@
+{
+  "name": "basic-map-leaflet",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.2.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1"
+  }
+}
